@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: lightgray;
+}
+header{
+	width: 100vw;
+	height: 5em;
+}
+nav{
+	width: 50%;
+	height: 100%;
+	margin: auto;
+}
+ul{
+	display: flex;
+	justify-content: space-around;
+}
+main{
+	width: 50%;
+	height: 20em;
+	margin: auto;
+}
+footer{
+	margin: auto;
+}
+h2{
+	width: 100%;
+	text-align: center;
+}
